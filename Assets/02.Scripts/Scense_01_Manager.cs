@@ -7,7 +7,6 @@ public class Scense_01_Manager : MonoBehaviour
     [SerializeField]
     GameObject player;
 
-
     void Start()
     {
         
